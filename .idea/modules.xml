@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../algorithm-master/.idea/algorithm-master.iml" filepath="$PROJECT_DIR$/../algorithm-master/.idea/algorithm-master.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../bayes/.idea/bayes.iml" filepath="$PROJECT_DIR$/../bayes/.idea/bayes.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/monituihuo.iml" filepath="$PROJECT_DIR$/.idea/monituihuo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../regression/.idea/regression.iml" filepath="$PROJECT_DIR$/../regression/.idea/regression.iml" />
+    </modules>
+  </component>
+</project>
